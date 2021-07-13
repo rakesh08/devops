@@ -1,1 +1,1 @@
-"fileB" 
+this is fileB v1
